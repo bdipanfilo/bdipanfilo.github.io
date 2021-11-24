@@ -1,20 +1,25 @@
 ## Bio
 
+I am a 21 year old from Yonkers, New York who was drawn to Rhode Island and URI by a desire to be near the ocean.
+I have a strong interest in nature and the oceans in particular and seek to learn more about both coastal and deep water enviroments.
+
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Senior student of Geological Oceanography at the University of Rhode Island. 
+Currently waiting to here back from the Graduate School of Oceanography.
 
 ---
 ### Work Experience
 
+Staff in the University of Rhode Island Geology Department.
+Research assistant in the Marine Geological Samples Laboratory at URI's Graduate School of Oceanography.
 
 ---
 ### Recent Projects
 
+Research into the rapidly growing field of deep ocean mining and the enviromental impacts.
 
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
 
 ---
 
